@@ -1,0 +1,33 @@
+#section {   
+    float: left; 
+    width: 100%;
+}
+
+#sectionLeft {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    margin: 5px;
+    /* border: 1px solid black; */
+}
+
+#sectionCenter {
+    float: left;
+    width: 55%;
+    margin: 5px;
+    /* border: 1px solid black; */
+}
+
+#sectionRigth {
+    float: left;
+    width: 20%;
+    margin: 5px;
+    /* border: 1px solid black; */
+}
+
+#footer {
+    float: left;
+    width: 100%;
+    background: #525252;
+    /* border: 1px solid black; */
+}
